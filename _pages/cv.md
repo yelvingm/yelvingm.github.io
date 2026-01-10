@@ -39,6 +39,10 @@ Skills
   * SQL Server
   * Visual-Intertial Odometry
   * Kalman Filtering
+
+Projects
+======
+*
   
 Service and leadership
 ======
