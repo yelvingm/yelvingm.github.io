@@ -4,7 +4,7 @@ collection: education
 type: "Junior"
 permalink: /education/education
 venue: "Embry-Riddle Aeronautical University, Physical Sciences"
-date: 2023-2027
+date: 2027
 location: "Daytona Beach, FL"
 ---
 
