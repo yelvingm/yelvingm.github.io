@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Marshall Yelvington",
-    "email": "none@example.org",
+    "email": "mcyel25@gmail.com",
     "phone": "",
     "website": "https://yelvingm.github.io",
     "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
@@ -55,12 +55,25 @@
           "name": "Spaceflight Dynamics"
         },
         {
-          "name": "Microprocessors and Instrumentation"
+          "name": "Microcomputers and Instrumentation"
         }
       ]
     }
   ],
-  "skills": [],
+  "skills": [
+    {
+      "name": "Robotics Control & Motion Planning Optimization",
+      "keywords": ["C/C++", "Python", "ROS", "GPS Localization"]
+    },
+    {
+      "name": "Full-Stack, DevOps, Infrastructure",
+      "keywords": ["Azure", "CI/CD", "Git", "HTML", "CSS", "Angular", "TypeScript", "RxJS", "Next.js", "Ubuntu", "Docker"]
+    },
+    {
+      "name": "Sensor Data Analysis & Visualization",
+      "keywords": ["Qt", "SQL Server", "Visual-Intertial Odometry", "Kalman Filtering"]
+    }
+  ],
   "languages": [
     {
       "language": "Spanish",
@@ -81,44 +94,20 @@
       "keywords": ["Optimization", "DSA", "SQL", "Docker"]
     }
   ],
-  "references": [],
-  "publications": [
-    {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
-    }
-  ],
   "portfolio": [
     {
-      "name": "Portfolio item number 1",
+      "name": "Autonomous Machine for Inspecting Gas Operations (AMIGO)",
       "category": "portfolio",
       "date": "",
       "url": "",
       "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+    },
+    {
+      "name": "PORTOLIO",
+      "category": "portfolio",
+      "date": "",
+      "url": "",
+      "description": "Short description of portfolio item number 2<br/><img src='/images/500x300.png'>"
     }
   ]
 }

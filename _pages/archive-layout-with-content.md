@@ -141,7 +141,7 @@ This scarcely known tag emulates <kbd>keyboard text</kbd>, which is usually styl
 
 This tag styles large blocks of code.
 
-<pre>
+<pre>z
 .post-title {
   margin: 0 0 5px;
   font-weight: bold;

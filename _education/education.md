@@ -2,7 +2,7 @@
 title: "Bachelor's of Science in Engineering Physics"
 collection: education
 type: "Junior"
-permalink: /education/2014-spring-teaching-1
+permalink: /education/education
 venue: "Embry-Riddle Aeronautical University, Physical Sciences"
 date: 2023-2027
 location: "Daytona Beach, FL"
