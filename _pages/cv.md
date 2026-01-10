@@ -13,48 +13,33 @@ For a dedicated list of degrees and coursework, see the Education page: [Educati
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* May 2025-Present: Research & Development Intern
+  * Steam Solutions
+  * Acting as co-lead of a company sponsored project in a student-led laboratory environment to develop an autonomous navigation solution for a robotic quadruped to assist visual inspectors of hazardous environments using ROS2, C++ and Python to integrate open source navigation and sensor fusion software.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* May 2025-Present: Full-Stack/DevOps Engineering Intern
+  * Flexjet
+  * Interning for company`s Innovation Center that develops web applications that support the operations of a fleet of private jets. Optimized codebase of a front-end, interactive smart calendar application using Angular, RxJS, and Next.js that fetches, parses, and displays aircraft availability data including trips, reservations, and maintenance events, using an internally built smart grid library, ensuring it meets company standards. Reduced code size by 40%
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.education reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Robotics Control & Motion Planning Optimization
+  * C/C++, Python, ROS
+  * GPS Localization
+* Full-Stack, DevOps, Infrastructure
+  * Azure
+  * Git 
+  * HTML, CSS, TypeScript
+  * Angular
+  * RxJS, Next.js
+  * Ubuntu
+  * Docker
+* Sensor Data Analysis & Visualization
+  * Qt
+  * SQL Server
+  * Visual-Intertial Odometry
+  * Kalman Filtering
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Eagle Scout
