@@ -216,6 +216,11 @@
   color: var(--global-text-color);
 }
 
+.project-video {
+  width: 60vw;
+  height: auto;
+}
+
 /* Print Styles */
 @media print {
   .cv-container {
