@@ -17,7 +17,7 @@ Final Project for Intro to Space Systems Engineering with the aim of solving a r
 
 Final Project for Spaceflight Dynamics Class simulating the three body problem using the Runge-Kutta-Fehlberg Numerical Method using MATLAB. Optimized and conducted end-to-end testing of code to ensure accurate results across variable initial conditions.
 
-![Results Comparing the Two Methods]({{ '/images/3BodyProblem.jpg' | relative_url }})
+<img src="{{ '/images/3BodyProblem.jpg' | relative_url }}" alt="Results Comparing the Two Methods" width=20vw height=auto />
 
 3. Club Chapter Website: Society of Hispanic Professional Engineers (SHPE)
 
