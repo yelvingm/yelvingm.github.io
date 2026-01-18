@@ -8,7 +8,10 @@ collection: portfolio
 
 Final Project for Intro to Space Systems Engineering with the aim of solving a real-world problem of learning attitude dynamics and control and its application in nonlinear systems. The testbed was an inverted flywheel pendulum, and the constants for PID control was calculated using a plant identification approach in MATLAB's System Identification Toolbox to obtain the transfer function between desired kinematic state (arm pointing up) and input voltage. 
 
-![Demonstration of Flywheel]({{ '/files/Flywheel_Pendulum.mp4' | relative_url }})
+<video controls playsinline preload="metadata" poster="{{ '/images/amigo.jpg' | relative_url }}" class="project-video" loop>
+	<source src="{{ '/files/Flywheel_Pendulum.mp4' | relative_url }}" type="video/mp4">
+	Your browser does not support the video tag. <a href="{{ '/files/Flywheel_Pendulum.mp4' | relative_url }}">Download the video</a>.
+</video>
 
 2. Orbit Determination of Interacting Satellites Using Fourth-Order Runge-Kutta Methods 
 
@@ -20,6 +23,6 @@ Final Project for Spaceflight Dynamics Class simulating the three body problem u
 
 Acting as Director of Website Migration for Embry-Riddle's SHPE, streamlining development by implementing an edit-in-place tool in Angular, allowing chapter members to update and add components onsite.
 
-![Draft Website (In Development!)]({{ '/files/Flywheel_Pendulum.mp4' | relative_url }})
+Draft Website (In Development)
 
 

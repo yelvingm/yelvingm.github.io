@@ -10,11 +10,10 @@ location: "Daytona Beach, FL"
 
 This is a description of a education experience. You can use markdown like any other post.
 
-Heading 1
+Courses
 ======
-
-Heading 2
-======
-
-Heading 3
-======
+Classical Mechanics
+Numerical Methods for Engineering
+Microcomputers & Instrumentation
+Spaceflight Dynamics
+Space Systems Engineering
