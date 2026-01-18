@@ -10,21 +10,23 @@ The project seeks to concentrate innovation in critical areas, including domains
 
 Sensor Fusion:
 
+The sensor array consists of a GPS, a Respeaker Mic Array, LiDAR, and Gas Sensors. Localization is achieved through Kalman Filtering of 3 IMU's and 2 sources of odometry: 1 from Indoor SLAM, and 1 from GPS.
+
 ![Testing Ublox GPS Module]({{ '/files/GPS_TEST.mp4' | relative_url }})
 
-The sensor array consists of a GPS, a Respeaker Mic Array, LiDAR, and Gas Sensors. Localization is achieved through Kalman Filtering of 3 IMU's and 2 sources of odometry.
+![Respeaker Mic Array]({{ '/images/respeaker.jpeg' | relative_url }})
 
 Navigation:
 
-![Testing AMIGO's Indoor Obstacle Avoidance]({{ '/files/AMIGO_NAV.mp4' | relative_url }})
-
 Navigation is achieved through a waypoint-based follower provided by Nav2, and open source software stack (Link to Nav2).
+
+![Testing AMIGO's Indoor Obstacle Avoidance]({{ '/files/AMIGO_NAV.mp4' | relative_url }})
 
 User Interface:
 
-![Operator GUI]({{ '/images/monitor.png' | relative_url }})
-
 This project also provides a GUI to operators for analyzing mission execution, sensor inputs, and decision making. The GUI was made with PyQt and ROS2. 
+
+![Operator GUI]({{ '/images/monitor.png' | relative_url }})
 
 Future Work:
 

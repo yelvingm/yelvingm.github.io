@@ -6,7 +6,7 @@ collection: portfolio
 
 Team Minion of the RobotX Maritime Challenge is a biannual competition hosted by RoboNation to build and operate a multi domain autonomous solution for an Unmanned Surface Vessel (USV) and an Unmanned Aerial Vehical.
 
-![Team Minion's USV]({{ '/images/minion.png' | relative_url }})
+![Team Minion's USV]({{ '/images/minion.jpg' | relative_url }})
 
 As a member of the Software Team, the first year consisted of assisting in ground station operations, C++ algorithm optimization, and analyzing test run data, but most importantly being available for all subteams. 
 
