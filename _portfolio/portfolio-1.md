@@ -8,7 +8,7 @@ This is a project by the Research and Development Team of Louisiana Steam (hyper
 
 The project seeks to concentrate innovation in critical areas, including domains such as all terrain navigation, behavior trees, and multimodal sensor fusion.
 
-Sensor Fusion:
+Sensor Fusion: Test test test
 
 (Inset GPS_Test.mov here)
 
