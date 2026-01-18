@@ -1,6 +1,6 @@
 ---
 title: "RobotX Team Minion"
-excerpt: "Software Team Member - University Competition<br/><img src='/src/yelvingm.github.io/images/minion.jpg' alt='Minion'/>"
+excerpt: "Software Team Member - University Competition<br/><img src='../../yelvingm.github.io/images/minion_docked.jpg' alt='Minion'/>"
 collection: portfolio
 ---
 
