@@ -1,6 +1,6 @@
 ---
 title: "Autonomous Machine for Inspecting Gas Operations (AMIGO)"
-excerpt: "Co-Lead: Company Sponsored Project in a Student-Led Laboratory <br/><img src='../../yelvingm.github.io/images/amigo.jpg'>"
+excerpt: "Co-Lead: Company Sponsored Project in a Student-Led Laboratory <br/><img src='/images/amigo.jpg' alt='AMIGO'/>"
 collection: portfolio
 ---
 

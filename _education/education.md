@@ -12,8 +12,8 @@ This is a description of a education experience. You can use markdown like any o
 
 Courses
 ======
-Classical Mechanics
-Numerical Methods for Engineering
-Microcomputers & Instrumentation
-Spaceflight Dynamics
-Space Systems Engineering
+Classical Mechanics, 
+Numerical Methods for Engineering, 
+Microcomputers & Instrumentation, 
+Spaceflight Dynamics, 
+Space Systems Engineering, 
