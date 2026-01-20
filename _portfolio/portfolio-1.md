@@ -1,6 +1,6 @@
 ---
 title: "Autonomous Machine for Inspecting Gas Operations (AMIGO)"
-excerpt: "Co-Lead: Company Sponsored Project in a Student-Led Laboratory <br/><img src='/images/amigo.jpg' alt='AMIGO' width=60vw height=auto/>"
+excerpt: "Co-Lead: Company Sponsored Project in a Student-Led Laboratory <br/><img src='/images/amigo.jpg' alt='AMIGO' width=300px height=auto/>"
 collection: portfolio
 ---
 
@@ -12,7 +12,7 @@ Sensor Fusion:
 
 The sensor array consists of a GPS, a Respeaker Mic Array, LiDAR, and Gas Sensors. Localization is achieved through Kalman Filtering of 3 IMU's and 2 sources of odometry: 1 from Indoor SLAM, and 1 from GPS.
 
-<video controls playsinline preload="metadata" width=20vw height=auto class="project-video" loop>
+<video controls playsinline preload="metadata" width=300px height=auto class="project-video" loop>
 	<source src="{{ '/files/GPS_TEST.mp4' | relative_url }}" type="video/mp4">
 	Your browser does not support the video tag. <a href="{{ '/files/GPS_TEST.mp4' | relative_url }}">Download the video</a>.
 </video>
@@ -23,7 +23,7 @@ Navigation:
 
 Navigation is achieved through a waypoint-based follower provided by Nav2, and open source software stack (Link to Nav2).
 
-<video controls playsinline preload="metadata" width=20vw height=auto class="project-video" loop>
+<video controls playsinline preload="metadata" width=200px height=auto class="project-video" loop>
 	<source src="{{ '/files/AMIGO_NAV.mp4' | relative_url }}" type="video/mp4">
 	Your browser does not support the video tag. <a href="{{ '/files/AMIGO_NAV.mp4' | relative_url }}">Download the video</a>.
 </video>

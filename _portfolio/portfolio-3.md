@@ -8,7 +8,7 @@ collection: portfolio
 
 Final Project for Intro to Space Systems Engineering with the aim of solving a real-world problem of learning attitude dynamics and control and its application in nonlinear systems, in this case an inverted flywheel pendulum. The constants for PID control was calculated using a plant identification approach in MATLAB's System Identification Toolbox to obtain the transfer function between desired kinematic state (arm pointing up) and input voltage. 
 
-<video controls playsinline preload="metadata" width=20vw height=auto class="project-video" loop>
+<video controls playsinline preload="metadata" width=200px height=auto class="project-video" loop>
 	<source src="{{ '/files/Flywheel_Pendulum.mp4' | relative_url }}" type="video/mp4">
 	Your browser does not support the video tag. <a href="{{ '/files/Flywheel_Pendulum.mp4' | relative_url }}">Download the video</a>.
 </video>
@@ -17,7 +17,7 @@ Final Project for Intro to Space Systems Engineering with the aim of solving a r
 
 Final Project for Spaceflight Dynamics Class simulating the three body problem using the Runge-Kutta-Fehlberg Numerical Method using MATLAB. Optimized and conducted end-to-end testing of code to ensure accurate results across variable initial conditions.
 
-<img src="{{ '/images/3BodyProblem.jpg' | relative_url }}" alt="Results Comparing the Two Methods" width=20vw height=auto />
+![3 Body Problem]({{ '/images/3BodyProblem.jpg' | relative_url }})
 
 3. Club Chapter Website: Society of Hispanic Professional Engineers (SHPE)
 
