@@ -8,12 +8,10 @@ date: "2027-05-09"
 location: "Daytona Beach, FL"
 ---
 
-This is a description of a education experience. You can use markdown like any other post.
-
-Courses
+Courses Taken/In Progress
 ======
-Classical Mechanics, 
-Numerical Methods for Engineering, 
-Microcomputers & Instrumentation, 
-Spaceflight Dynamics, 
-Space Systems Engineering, 
+Classical Mechanics,  
+Numerical Methods for Engineering,   
+Microcomputers & Instrumentation,   
+Spaceflight Dynamics,   
+Space Systems Engineering  
